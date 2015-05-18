@@ -1,0 +1,7 @@
+iniparse==0.3.1
+pycurl==7.19.0
+pygpgme==0.1
+shadowsocks==2.6.8
+urlgrabber==3.9.1
+virtualenv==12.1.1
+yum-metadata-parser==1.1.2
